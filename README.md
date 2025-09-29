@@ -8,7 +8,6 @@
 2. Фото где счетчик > 10
 <img width="580" height="1092" alt="image" src="https://github.com/user-attachments/assets/124bb305-05f1-43a6-abce-a7087c3190d2" />
    
-<img width="498" height="1107" alt="больше 10" src="https://github.com/user-attachments/assets/f8bd6627-b9d6-430c-9593-ac794a9f1d08" />
 3. Фото после нажатия кнопки сброс
 
 <img width="578" height="1100" alt="image" src="https://github.com/user-attachments/assets/95a02490-eccf-4495-8443-6f8b6f716144" />
